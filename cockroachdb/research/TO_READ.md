@@ -4,7 +4,9 @@
 
 - [x] [What Write Skew Looks Like](https://www.cockroachlabs.com/blog/what-write-skew-looks-like/)
   - [Notes](what_write_skew_looks_like.md)
-- [ ] https://www.cockroachlabs.com/blog/parallel-commits/
+- [x] [Transactional Pipelining A.K.A Asynchronous Pipeline Consensus](https://www.cockroachlabs.com/blog/transaction-pipelining/)
+  - [Notes](./transaction_pipelining.md)
+- [ ] [Parallel Commits](https://www.cockroachlabs.com/blog/parallel-commits/)
 - [ ] https://www.cockroachlabs.com/blog/serializable-lockless-distributed-isolation-cockroachdb/
   - Similar to the Cockroach Labs Write Skew One
 
@@ -15,3 +17,15 @@ https://www.cockroachlabs.com/blog/page/4/#newpage
 ## Official Docs
 
 - [ ] [Architecture Overview](https://www.cockroachlabs.com/docs/stable/architecture/overview.html)
+  - [ ] [Transaction Layer](https://www.cockroachlabs.com/docs/stable/architecture/transaction-layer.html)
+- [ ] [Follow the Workload](https://www.cockroachlabs.com/docs/v2.1/demo-follow-the-workload.html)
+
+## Data Structures & Algorithms
+
+- Raft
+  - https://www.cockroachlabs.com/blog/consensus-made-thrive/
+- LSM Tree
+  - https://www.cs.umb.edu/~poneil/lsmtree.pdf
+- MVCC (Multiversion Concurrency Control)
+  - https://levelup.gitconnected.com/implementing-your-own-transactions-with-mvcc-bba11cab8e70
+    - https://elliotchance.medium.com/sql-transaction-isolation-levels-explained-50d1a2f90d8f
