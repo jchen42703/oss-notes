@@ -20,6 +20,16 @@ https://www.cockroachlabs.com/blog/page/4/#newpage
   - [ ] [Transaction Layer](https://www.cockroachlabs.com/docs/stable/architecture/transaction-layer.html)
 - [ ] [Follow the Workload](https://www.cockroachlabs.com/docs/v2.1/demo-follow-the-workload.html)
 
+## Integration With Other Services
+
+- Full-Text Search
+  - [Trigram Indices](https://www.cockroachlabs.com/blog/use-cases-trigram-indexes/)
+  - [CockroachDB CDC ElasticSearch](https://www.cockroachlabs.com/blog/cockroachdb-cdc-elasticsearch/)
+
+## SQL
+
+- [ ] [Upsert](https://www.cockroachlabs.com/blog/sql-upsert/)
+
 ## Data Structures & Algorithms
 
 - Raft
