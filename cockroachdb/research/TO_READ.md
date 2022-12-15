@@ -6,6 +6,9 @@
   - [Notes](what_write_skew_looks_like.md)
 - [x] [Transactional Pipelining A.K.A Asynchronous Pipeline Consensus](https://www.cockroachlabs.com/blog/transaction-pipelining/)
   - [Notes](./transaction_pipelining.md)
+- [x] [Why we built CockroachDB on top of RocksDB](https://www.cockroachlabs.com/blog/cockroachdb-on-rocksd/#what-is-rocksdb)
+  - [Notes](./why_rocks_db.md)
+  - Only like 80% done, requires more knowledge on MVCC and LSMs.
 - [ ] [Parallel Commits](https://www.cockroachlabs.com/blog/parallel-commits/)
 - [ ] https://www.cockroachlabs.com/blog/serializable-lockless-distributed-isolation-cockroachdb/
   - Similar to the Cockroach Labs Write Skew One
