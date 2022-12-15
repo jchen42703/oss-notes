@@ -10,6 +10,7 @@
   - [Notes](./why_rocks_db.md)
   - Only like 80% done, requires more knowledge on MVCC and LSMs.
 - [ ] [Parallel Commits](https://www.cockroachlabs.com/blog/parallel-commits/)
+  - [Notes](./parallel_commits.md)
 - [ ] https://www.cockroachlabs.com/blog/serializable-lockless-distributed-isolation-cockroachdb/
   - Similar to the Cockroach Labs Write Skew One
 
